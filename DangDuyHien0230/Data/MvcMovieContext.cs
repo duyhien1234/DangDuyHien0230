@@ -15,5 +15,7 @@ namespace MvcMovie.Data
         }
 
         public DbSet<DangDuyHien0230.Models.DDHSinhvien> DDHSinhvien { get; set; } = default!;
+
+        public DbSet<DangDuyHien0230.Models.DDHHocsinhgioi> DDHHocsinhgioi { get; set; } = default!;
     }
 }

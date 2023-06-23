@@ -18650,8 +18650,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHHocsinhgioi\\Create.cshtml",
+      "TargetPath": "Views\\DDHHocsinhgioi\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHHocsinhgioi\\Delete.cshtml",
+      "TargetPath": "Views\\DDHHocsinhgioi\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18675,6 +18685,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHHocsinhgioi\\Index.cshtml",
+      "TargetPath": "Views\\DDHHocsinhgioi\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHSinhvien\\Index.cshtml",
       "TargetPath": "Views\\DDHSinhvien\\Index.cshtml",
       "FileKind": "mvc"
@@ -18682,6 +18697,11 @@
     {
       "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHHocsinhgioi\\Details.cshtml",
+      "TargetPath": "Views\\DDHHocsinhgioi\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18702,6 +18722,11 @@
     {
       "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Admin\\Desktop\\DangDuyHien0230\\DangDuyHien0230\\Views\\DDHHocsinhgioi\\Edit.cshtml",
+      "TargetPath": "Views\\DDHHocsinhgioi\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\DangDuyHien0230\DangDuyHien0230
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHHocsinhgioi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERISG9jc2luaGdpb2lcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHHocsinhgioi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERISG9jc2luaGdpb2lcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHHocsinhgioi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERISG9jc2luaGdpb2lcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHHocsinhgioi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERISG9jc2luaGdpb2lcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHHocsinhgioi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERISG9jc2luaGdpb2lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/DangDuyHien0230/DangDuyHien0230/Views/DDHSinhvien/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRERIU2luaHZpZW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
